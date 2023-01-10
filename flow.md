@@ -38,6 +38,8 @@
     - [memberinfo 패키지](#memberinfo-패키지)
   - [Util 패키지](#util-패키지)
   - [appication.yml](#appicationyml)
+
+- 패키지 구조 설명
 ![image](https://user-images.githubusercontent.com/102513932/211573608-394544b5-f68f-47f9-8842-15c46c492d27.png)
 # web 패키지
 - web 패키지를 제외하고는 패키지 이름 순서대로 설명 기술
